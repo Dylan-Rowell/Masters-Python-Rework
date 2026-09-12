@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+.Rproj.user
+
+# folders
+_RData
+_gifs
+_figures
